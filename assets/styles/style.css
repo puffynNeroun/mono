@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'SF';
-    url("./../fonts/SFProText-Medium.ttf");
+url("./../fonts/SFProText-Medium.ttf");
     font-weight: 600;
 }
 
@@ -118,6 +118,10 @@ body {
     max-width: 100px;
     letter-spacing: -0.24px;
     text-align: center;
+}
+
+.yellow {
+    color: yellow;
 }
 
 
