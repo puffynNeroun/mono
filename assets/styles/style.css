@@ -18,8 +18,6 @@ body {
 
 .header {
     padding-top: 59px;
-    position: relative;
-    height: 100vh;
 }
 
 .header__summ {

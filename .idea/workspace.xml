@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c052a67c-7e01-4cad-8a66-0d8c024e76b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Icon2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Icon4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icon3.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,20 +21,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/пипетка/mono",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/пипетка/mono&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\пипетка\mono\assets\images" />
@@ -61,7 +52,8 @@
       <workItem from="1681810395718" duration="304000" />
       <workItem from="1681810750881" duration="943000" />
       <workItem from="1681812224027" duration="1816000" />
-      <workItem from="1681814081567" duration="12642000" />
+      <workItem from="1681814081567" duration="12778000" />
+      <workItem from="1681827534548" duration="276000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1681814355155</created>
@@ -77,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681818547854</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="section + footer">
+      <created>1681826966536</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681826966536</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="red header" />
-    <option name="LAST_COMMIT_MESSAGE" value="red header" />
+    <MESSAGE value="section + footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="section + footer" />
   </component>
 </project>
