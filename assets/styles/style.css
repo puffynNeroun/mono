@@ -1,0 +1,123 @@
+@import "normalize.css";
+@import "var.css";
+
+
+@font-face {
+    font-family: 'SF';
+    url("./../fonts/SFProText-Medium.ttf");
+    font-weight: 600;
+}
+
+body {
+    font-family: "SF", monospace;
+}
+
+.header {
+    background: linear-gradient(62.93deg, #66659E 19.68%, #9A8290 89.55%);
+    padding-top: 59px;
+    position: relative;
+    height: 100vh;
+}
+
+.header__summ {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+.btn::before {
+    content: '';
+    display: inline-block;
+    background: #7E6E88;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.btn img {
+    position: relative;
+    z-index: 3;
+}
+
+.arrow-down {
+    position: absolute;
+    top: 33px;
+    margin-bottom: 20px;
+}
+
+.card {
+    position: absolute;
+    top: 54px;
+    right: 0;
+    color: var(--white);
+    padding: 74px 0 97px 40px;
+    background: linear-gradient(180deg, #1F1F21 0%, #171717 40.63%, #1F1F21 100%);
+    box-shadow: 0 6px 30px rgba(51, 51, 51, 0.3);
+    border-radius: 20px 0 0 20px;
+}
+
+.card__bankName {
+    margin-bottom: 59px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.currently {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 57px;
+    color: var(--white);
+}
+
+.my-money {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    max-width: 225px;
+    color: var(--black);
+}
+
+.operation {
+    line-height: 20px;
+    margin-bottom: 138px;
+}
+
+.pagination {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.navbar > div > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    color: var(--white);
+    font-size: 12px;
+}
+
+.navbar > div > div > p {
+    max-width: 100px;
+    letter-spacing: -0.24px;
+    text-align: center;
+}
+
+
