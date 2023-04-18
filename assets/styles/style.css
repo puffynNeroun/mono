@@ -247,4 +247,132 @@ body {
     align-items: center;
 }
 
+@media (max-width: 439px) {
+    .balance {
+        font-size: 50px;
+    }
+
+    .my-money {
+        font-size: 14px;
+    }
+
+    .card {
+        top: 72px;
+        padding: 28px 0 80px 15px;
+    }
+
+    .card__bankName {
+        font-size: 28px;
+    }
+
+    .card__number {
+        font-size: 28px;
+    }
+
+    .navbar > div > div > p {
+        font-size: 14px;
+    }
+
+    .navbar__menu {
+        display: flex;
+        align-items: stretch;
+    }
+
+    .img-navbar {
+        max-width: 55px;
+    }
+
+    .info-string_firs {
+        font-size: 15px;
+    }
+
+    .info-string {
+        font-size: 15px;
+    }
+
+    .icon-img {
+        max-width: 45px;
+    }
+
+    .size {
+        font-size: 20px;
+    }
+
+    .text-btn {
+        font-size: 15px;
+    }
+
+    .icon__footer1 {
+        max-width: 100%;
+    }
+
+    .footer-icon > span {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 370px) {
+    .balance {
+        font-size: 40px;
+    }
+
+    .my-money {
+        font-size: 12px;
+    }
+
+    .card {
+        top: 82px;
+        padding: 28px 0 60px 25px;
+    }
+
+    .card__bankName {
+        font-size: 20px;
+    }
+
+    .card__number {
+        font-size: 20px;
+    }
+
+    .navbar > div > div > p {
+        font-size: 12px;
+    }
+
+    .navbar__menu {
+        display: flex;
+        align-items: stretch;
+    }
+
+    .img-navbar {
+        max-width: 50px;
+    }
+
+    .info-string_firs {
+        font-size: 12px;
+    }
+
+    .info-string {
+        font-size: 12px;
+    }
+
+    .icon-img {
+        max-width: 40px;
+    }
+
+    .size {
+        font-size: 17px;
+    }
+
+    .text-btn {
+        font-size: 12px;
+    }
+
+    .icon__footer1 {
+        max-width: 100%;
+    }
+
+    .footer-icon > span {
+        font-size: 10px;
+    }
+}
+
 
